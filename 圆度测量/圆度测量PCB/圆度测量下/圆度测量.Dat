@@ -1,0 +1,49 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~圆度测量.PrjPCB|ReportField=ProjectFullPath~C:\Users\Lenovo\Desktop\圆度测量下\圆度测量.PrjPCB|ReportField=Title~Bill of Materials For Project [圆度测量.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~77|ReportField=ReportTime~20:08:04|ReportField=ReportDate~2017/12/11|ReportField=ReportDateTime~2017/12/11 20:08:04|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~2017/12/11|ReportField=CurrentTime~20:07:50|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Lenovo\Desktop\圆度测量下\SHEET1-胡晓.SCHDOC|ReportField=DocumentName~SHEET1-胡晓.SCHDOC|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/12/9|ReportField=Organization~|ReportField=ProjectName~圆度测量.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~圆度测量.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Lenovo\Desktop\圆度测量下\圆度测量.PrjPCB
+CA14||C1|LC0805-有方向?|CA14|1
+CA13||C2|0805|CA13|1
+CA12||C3|0805|CA12|1
+CA11||C4|0805|CA11|1
+CA8||C5|0805|CA8|1
+CA9||C6|0805|CA9|1
+CA10||C7|LC0805-有方向?|CA10|1
+CA7||C8|0805|CA7|1
+CA6||C9|0805|CA6|1
+CA5||C10|0805|CA5|1
+CA4||C11|0805|CA4|1
+CA3||C12|0805|CA3|1
+CA2||C13|0805|CA2|1
+CA1||C14|0805|CA1|1
+104|Capacitor|C15, C16, C17, C18, C19|0805|CAP_1|5
+C20||C20|LC0805-有方向?|CA10|1
+0.1uF||C21, C22, C23, C25, C26, C27|0805|CA8|6
+Cap|Capacitor|C24|0805|Cap|1
+50V|Polarized Capacitor (Radial)|CJ1|470uF|Cap Pol1|1
+Cap Pol1|Polarized Capacitor (Radial)|CV1|50V/330uF|Cap Pol1|1
+Cap Pol1|Polarized Capacitor (Radial)|CV2|10V/330uF|Cap Pol1|1
+Cap Pol1|Polarized Capacitor (Radial)|CV3|35V/10uF|Cap Pol1|1
+DB1||DB1|kf128-3P|JA6|1
+DB2||DB2|kf128-3P|JA6|1
+Diode|Default Diode|DV1|SMB-二极管|Diode|1
+LA2||LA1|0805|LA2|1
+LA1||LA2|0805|LA1|1
+LM2596_5|Header, 6-Pin|LM2596|LM2596|Header 6|1
+Inductor|Inductor|LV1|47uH|Inductor|1
+UA1||MC1|mc9s12xep100|UA1|1
+LED1|Header, 2-Pin|P1|KF128-2p|Header 2|1
+LED2|Header, 2-Pin|P2|KF128-2p|Header 2|1
+LED3|Header, 2-Pin|P3|KF128-2p|Header 2|1
+蜂鸣器|Header, 2-Pin|P4|KF128-2p|Header 2|1
+按键|Header, 2-Pin|P5, P6, P7|KF128-2p|Header 2|3
+复位开关|Header, 2-Pin|P8|KF128-2p|Header 2|1
+中断|Header, 2-Pin|P9, P10, P11|KF128-2p|Header 2|3
+Header 5X2|Header, 5-Pin, Dual row|P14, P15, P16|插针5x5|Header 5X2|3
+12V供电|Header, 2-Pin|P17, P18, P19|KF128-2p|Header 2|3
+Header 2|Header, 2-Pin|POWER_12V|KF128-2p|Header 2|1
+RA8||R1|0805|RA8|1
+RA2||R2, R3, R4, R5|0805|RA2|4
+10K||R6, R7, R8, R9, R10, R11, R12, R13, R14|0805|RA1, RA2|9
+Res2|Resistor|R15, R16|0805|Res2|2
+MAX3232C||U2|MAX232|max232_1|1
+TLE8104||U3|TEL8104|TLE8104|1
+BDM||U4|BDM|JA1|1
+YA1||YA1|XTAL|YA1|1

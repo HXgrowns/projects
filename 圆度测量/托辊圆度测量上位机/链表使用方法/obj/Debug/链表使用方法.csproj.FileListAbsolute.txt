@@ -1,0 +1,9 @@
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\bin\Debug\链表使用方法.exe.config
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\obj\Debug\链表使用方法.Properties.Resources.resources
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\obj\Debug\链表使用方法.csproj.GenerateResource.Cache
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\bin\Debug\链表使用方法.exe
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\bin\Debug\链表使用方法.pdb
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\obj\Debug\链表使用方法.exe
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\obj\Debug\链表使用方法.pdb
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\obj\Debug\链表使用方法.csprojResolveAssemblyReference.cache
+D:\vs2013 workspace\托辊圆度测量\链表使用方法\obj\Debug\链表使用方法.Form2.resources

@@ -1,0 +1,6 @@
+D:\vs2013 workspace\托辊圆度测量\Test\bin\Debug\Test.exe.config
+D:\vs2013 workspace\托辊圆度测量\Test\bin\Debug\Test.exe
+D:\vs2013 workspace\托辊圆度测量\Test\bin\Debug\Test.pdb
+D:\vs2013 workspace\托辊圆度测量\Test\obj\Debug\Test.exe
+D:\vs2013 workspace\托辊圆度测量\Test\obj\Debug\Test.pdb
+D:\vs2013 workspace\托辊圆度测量\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

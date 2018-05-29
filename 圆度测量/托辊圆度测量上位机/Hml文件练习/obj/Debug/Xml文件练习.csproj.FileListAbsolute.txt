@@ -1,0 +1,8 @@
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\bin\Debug\Hml文件练习.exe.config
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\bin\Debug\Hml文件练习.exe
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\bin\Debug\Hml文件练习.pdb
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\obj\Debug\Xml文件练习.csprojResolveAssemblyReference.cache
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\obj\Debug\Hml文件练习.Properties.Resources.resources
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\obj\Debug\Xml文件练习.csproj.GenerateResource.Cache
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\obj\Debug\Hml文件练习.exe
+D:\vs2013 workspace\托辊圆度测量\Hml文件练习\obj\Debug\Hml文件练习.pdb

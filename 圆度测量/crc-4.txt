@@ -1,0 +1,20 @@
+/*************************************************************/
+/*                        生成CRC信息字段数字是3             */
+/*************************************************************/ 
+unsigned char crc4_itu(unsigned char *data, unsigned int length)  
+{  
+    int i;  
+     
+    while(length--)  
+    {  
+        crc ^= *data++;     // crc ^= *data; data++;  
+        for (i = 0; i < 8; ++i)  
+        {  
+            if (crc & 1)  
+                crc = (crc >> 1) ^ 0x0C;// 0x0C = (reverse 0x03)>>(8-4)  
+            else  
+                crc = (crc >> 1);  
+        }  
+    }  
+    return crc;  
+}

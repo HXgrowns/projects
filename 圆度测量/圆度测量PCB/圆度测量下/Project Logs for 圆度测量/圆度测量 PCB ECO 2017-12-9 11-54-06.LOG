@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetDB1_22 Pin=DB1-2
+Removed Pin From Net: NetName=NetDB1_23 Pin=DB1-3
+Removed Pin From Net: NetName=NetDB2_22 Pin=DB2-2
+Removed Pin From Net: NetName=NetDB2_23 Pin=DB2-3
+Removed Pin From Net: NetName=PA1 Pin=U3-2
+Removed Pin From Net: NetName=PA3 Pin=U3-12
+Removed Pin From Net: NetName=PA2 Pin=U3-19
+Change Component DesignItemId : Designator=DB1 Old DesignItemId= New DesignItemId=JA6
+Change Component DesignItemId : Designator=DB2 Old DesignItemId= New DesignItemId=JA6
+Change Component Comment : Designator=DB1 Old Comment=Comment New Comment=DB1
+Change Component Comment : Designator=DB2 Old Comment=Comment New Comment=DB2
+Change Component Library : Designator=DB1 Old Library= New Library=1.SchLib
+Change Component Library : Designator=DB2 Old Library= New Library=1.SchLib
+Added Pin To Net: NetName=PA2 Pin=U3-2
+Added Pin To Net: NetName=PA1 Pin=U3-12
+Added Pin To Net: NetName=PA3 Pin=U3-19
+Added Member To Class: ClassName=SHEET1-ºúÏþ Member=Component DB1
+Added Member To Class: ClassName=SHEET1-ºúÏþ Member=Component DB2
+Added Room: Name=SHEET1-ºúÏþ

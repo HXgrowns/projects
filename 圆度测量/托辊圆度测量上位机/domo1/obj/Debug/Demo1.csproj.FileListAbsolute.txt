@@ -1,0 +1,30 @@
+D:\vs2013 workspace\托辊圆度测量\domo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+D:\vs2013 workspace\托辊圆度测量\domo1\obj\Debug\domo1.Form1.resources
+D:\vs2013 workspace\托辊圆度测量\domo1\obj\Debug\domo1.Properties.Resources.resources
+D:\vs2013 workspace\托辊圆度测量\domo1\obj\Debug\Demo1.csproj.GenerateResource.Cache
+D:\vs2013 workspace\托辊圆度测量\domo1\bin\Debug\domo1.exe.config
+D:\vs2013 workspace\托辊圆度测量\domo1\bin\Debug\domo1.exe
+D:\vs2013 workspace\托辊圆度测量\domo1\bin\Debug\domo1.pdb
+D:\vs2013 workspace\托辊圆度测量\domo1\obj\Debug\domo1.exe
+D:\vs2013 workspace\托辊圆度测量\domo1\obj\Debug\domo1.pdb
+D:\托辊圆度测量\domo1\bin\Debug\domo1.exe.config
+D:\托辊圆度测量\domo1\obj\Debug\domo1.exe
+D:\托辊圆度测量\domo1\obj\Debug\domo1.pdb
+D:\托辊圆度测量\domo1\bin\Debug\domo1.exe
+D:\托辊圆度测量\domo1\bin\Debug\domo1.pdb
+D:\托辊圆度测量\domo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+D:\托辊圆度测量\domo1\obj\Debug\domo1.Form1.resources
+D:\托辊圆度测量\domo1\obj\Debug\domo1.Properties.Resources.resources
+D:\托辊圆度测量\domo1\obj\Debug\Demo1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\托辊圆度测量上位机\domo1\bin\Debug\domo1.exe.config
+C:\Users\Lenovo\Desktop\托辊圆度测量上位机\domo1\obj\Debug\domo1.exe
+C:\Users\Lenovo\Desktop\托辊圆度测量上位机\domo1\obj\Debug\domo1.pdb
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\bin\Debug\domo1.exe.config
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\obj\Debug\domo1.exe
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\obj\Debug\domo1.pdb
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\bin\Debug\domo1.exe
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\bin\Debug\domo1.pdb
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\obj\Debug\domo1.Form1.resources
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\obj\Debug\domo1.Properties.Resources.resources
+D:\研究生阶段做的项目资料\圆度测量\托辊圆度测量上位机\domo1\obj\Debug\Demo1.csproj.GenerateResource.Cache

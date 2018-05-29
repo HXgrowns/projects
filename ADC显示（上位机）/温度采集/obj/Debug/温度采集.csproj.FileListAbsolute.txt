@@ -1,0 +1,36 @@
+D:\vs2013 workspace\ADC显示\温度采集\bin\Debug\温度采集.exe.config
+D:\vs2013 workspace\ADC显示\温度采集\obj\Debug\温度采集.csprojResolveAssemblyReference.cache
+D:\vs2013 workspace\ADC显示\温度采集\obj\Debug\温度采集.Form1.resources
+D:\vs2013 workspace\ADC显示\温度采集\obj\Debug\温度采集.Properties.Resources.resources
+D:\vs2013 workspace\ADC显示\温度采集\obj\Debug\温度采集.csproj.GenerateResource.Cache
+D:\vs2013 workspace\ADC显示\温度采集\bin\Debug\温度采集.exe
+D:\vs2013 workspace\ADC显示\温度采集\bin\Debug\温度采集.pdb
+D:\vs2013 workspace\ADC显示\温度采集\obj\Debug\温度采集.exe
+D:\vs2013 workspace\ADC显示\温度采集\obj\Debug\温度采集.pdb
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\bin\Debug\温度采集.exe.config
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\obj\Debug\温度采集.exe
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\obj\Debug\温度采集.pdb
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\obj\Debug\温度采集.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\obj\Debug\温度采集.Form1.resources
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\obj\Debug\温度采集.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\obj\Debug\温度采集.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\bin\Debug\温度采集.exe
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示\温度采集\bin\Debug\温度采集.pdb
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\bin\Debug\温度采集.exe.config
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\obj\Debug\温度采集.exe
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\obj\Debug\温度采集.pdb
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\bin\Debug\温度采集.exe
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\bin\Debug\温度采集.pdb
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\obj\Debug\温度采集.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\obj\Debug\温度采集.Form1.resources
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\obj\Debug\温度采集.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GPRS实验\ADC显示（上位机）\温度采集\obj\Debug\温度采集.csproj.GenerateResource.Cache
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\bin\Debug\温度采集.exe.config
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\obj\Debug\温度采集.exe
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\obj\Debug\温度采集.pdb
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\bin\Debug\温度采集.exe
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\bin\Debug\温度采集.pdb
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\obj\Debug\温度采集.csprojResolveAssemblyReference.cache
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\obj\Debug\温度采集.Form1.resources
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\obj\Debug\温度采集.Properties.Resources.resources
+D:\研究生阶段做的项目资料\ADC显示（上位机）\温度采集\obj\Debug\温度采集.csproj.GenerateResource.Cache

@@ -1,0 +1,88 @@
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=CA1
+Change Component DesignItemId : Designator=C13 Old DesignItemId= New DesignItemId=CA2
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=CA3
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=CA4
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=CA5
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=CA6
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=CA7
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C21 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C22 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C23 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C25 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C26 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C27 Old DesignItemId= New DesignItemId=CA8
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=CA9
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=CA10
+Change Component DesignItemId : Designator=C20 Old DesignItemId= New DesignItemId=CA10
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=CA11
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=CA12
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=CA13
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=CA14
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=JA1
+Change Component DesignItemId : Designator=DB1 Old DesignItemId= New DesignItemId=JA6
+Change Component DesignItemId : Designator=DB2 Old DesignItemId= New DesignItemId=JA6
+Change Component DesignItemId : Designator=LA2 Old DesignItemId= New DesignItemId=LA1
+Change Component DesignItemId : Designator=LA1 Old DesignItemId= New DesignItemId=LA2
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=RA1
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=RA1
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=RA1
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=RA1
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=RA1
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=RA1
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=RA2
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=RA8
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=TLE8104
+Change Component DesignItemId : Designator=MC1 Old DesignItemId= New DesignItemId=UA1
+Change Component DesignItemId : Designator=YA1 Old DesignItemId= New DesignItemId=YA1
+Change Component DesignItemId : Designator=U2 Old DesignItemId=max New DesignItemId=max232_1
+Change Component Description : Designator=C15 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C16 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C17 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C18 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C19 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C24 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=DV1 Old Description=Defau New Description=Default Diode
+Change Component Description : Designator=POWER_12V Old Description=Header, New Description=Header, 2-Pin
+Change Component Description : Designator=LM2596 Old Description=Header, New Description=Header, 6-Pin
+Change Component Description : Designator=P1 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P2 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P3 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P4 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P5 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P6 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P7 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P8 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P9 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P10 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P11 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P17 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P18 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=P19 Old Description=Header New Description=Header, 2-Pin
+Change Component Description : Designator=LV1 Old Description=Ind New Description=Inductor
+Change Component Description : Designator=CJ1 Old Description=Polarized Capacitor (Ra New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=CV1 Old Description=Polarized Capacitor (Ra New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=CV2 Old Description=Polarized Capacitor (Ra New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=CV3 Old Description=Polarized Capacitor (Ra New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=R12 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14 Old Description=Res New Description=Resistor
+Added Pin To Net: NetName=NetMC1_36 Pin=R2-1
+Added Pin To Net: NetName=NetMC1_37 Pin=R2-1
+Added Pin To Net: NetName=NetMC1_38 Pin=R2-1
+Added Pin To Net: NetName=NetMC1_39 Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=KWH0 Pin=R8-1
+Added Pin To Net: NetName=KWH4 Pin=R8-1
+Added Pin To Net: NetName=KWH5 Pin=R8-1
+Added Pin To Net: NetName=KWH6 Pin=R8-1
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=R8-2
